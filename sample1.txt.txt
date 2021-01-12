@@ -1,1 +1,1 @@
-sample1 has been changed
+sample1 has been changedand comitted
